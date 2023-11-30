@@ -1,4 +1,3 @@
-
 let nota1 = parseFloat(prompt("Digite a primeira nota (entre 0 e 10):"));
 let nota2 = parseFloat(prompt("Digite a segunda nota (entre 0 e 10):"));
 let nota3 = parseFloat(prompt("Digite a terceira nota (entre 0 e 10):"));
